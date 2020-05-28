@@ -152,4 +152,10 @@
     <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
     <string name="tethering_allow_vpn_upstreams_summary">Permit hotspot clients to use this device\u2019s VPN connections for upstream connectivity</string>
 
+    <!-- Battery style -->
+    <string name="battery_style_title">Battery style</string>
+    <string name="battery_style_bar">Battery bar</string>
+    <string name="battery_style_circle">Battery circle</string>
+    <string name="battery_style_hidden">Battery hidden</string>
+
 </resources>
