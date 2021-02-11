@@ -160,4 +160,6 @@
 
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
+    <string name="ring_only_volume_option_title">Ring volume</string>
+
 </resources>
